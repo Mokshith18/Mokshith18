@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Mokshith18
+- 👋 Hi, I’m Mokshith
 - 👀 I’m interested in Sofware Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me mokshithmd6@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡Languages: Java, Python3, MySQL, HTML, CSS
 
 <!---
 Mokshith18/Mokshith18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
