@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me mokshithmd6@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡Languages: Java, Python3, MySQL, HTML, CSS
+- ⚡Languages: Java, Python3, MySQL, HTML, CSS, JavaScript
 
 <!---
 Mokshith18/Mokshith18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
